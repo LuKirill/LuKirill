@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/LuKirill" target="_blank">Kirill</a> 
 <img src="wave.gif" height="32"/></h1>
 <h3 align="center">I currently learning Python and dreaming of working as a real developer. </h3>
+
 <p align="center">
-  
   <b>My CV:</b>
   <br>
   <a href="https://kaluga.hh.ru/applicant/resumes/view?resume=2db1bcd7ff02bb6ab10039ed1f474a61753355">
@@ -30,20 +30,7 @@
   <p align="center"><i>Preferred contact method is Telegram.</i></p>
   <p>In programming, I am motivated by the ability to create something new, solve interesting problems, as well as unlimited scope for personal development and career growth, because I don’t like to stagnate and turn sour otherwise.</p>
 </p>
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/LuKirill)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/LuKirill)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/LuKirill)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/LuKirill)
 
-### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)]
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
-[![FLASK](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)]
-
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
 <!--
 **LuKirill/LuKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
