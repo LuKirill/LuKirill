@@ -14,7 +14,7 @@
   <a href="mailto:lukklg88@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-informational?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://t.me/LubimovKirill">
+  <a href="https://t.me/LuKir88">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://m.vk.com/lyubimovk">
@@ -28,7 +28,7 @@
   </a>
   <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me!</i></p>
   <p align="center"><i>Preferred contact method is Telegram.</i></p>
-  <p>In programming, I am motivated by the ability to create something new, solve interesting problems, as well as unlimited scope for personal development and career growth, because I don’t like to stagnate and turn sour otherwise.</p>
+  <p>What draws me to technical writing is the challenge of balancing technical detail with clear explanation, the chance to solve interesting problems, and the almost unlimited room for personal development and career growth.</p>
 </p>
 
 <!--
