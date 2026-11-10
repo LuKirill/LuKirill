@@ -5,7 +5,7 @@
 <p align="center">
   <b>My CV:</b>
   <br>
-  <a href="https://kaluga.hh.ru/applicant/resumes/view?resume=2db1bcd7ff02bb6ab10039ed1f474a61753355">
+  <a href="https://docs.google.com/document/d/1hRoDh63tdV7Mox6wi4pflh9J9rQlG3kx/edit">
     <img src="hh_logo.svg" width="50" alt="HeadHunter CV">
   </a>
   <br>
